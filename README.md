@@ -5,7 +5,7 @@ Source code and scripts for the Pixelcade Arcade Marquee integration with the Pe
 
 Install the Pixelcade Software for Windows on your Windows arcade machine https://pixelcade.org/download-pc/
 
-For Windows: copy the scripts to:
+For Windows: copy the scripts to and note that you'll need to manually create the scripts folder
 
 * C:\Users\[username]\AppData\Local\pegasus-frontend\scripts\game-start\pixelcade-pegasus-game-start.exe
 * C:\Users\[username]\AppData\Local\pegasus-frontend\scripts\quit\pixelcade-quit.exe
