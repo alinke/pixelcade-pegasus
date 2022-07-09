@@ -10,6 +10,8 @@ For Windows: copy the scripts to and note that you'll need to manually create th
 * C:\Users\[username]\AppData\Local\pegasus-frontend\scripts\game-start\pixelcade-pegasus-game-start.exe
 * C:\Users\[username]\AppData\Local\pegasus-frontend\scripts\quit\pixelcade-quit.exe
 
+Other Platforms (Pi, etc.): coming later
+
 Pixelcade will update when you launch a game.
 
 Ensure that the Pixelcade Listener is running before launching Pegasus and note that if the Pixelcade Listener is not running, EmulationStation will be slower as the Pixelcade Scripts will be making API calls to the Pixelcade Listener which will time out and slow down performance.
