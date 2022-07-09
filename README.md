@@ -20,7 +20,7 @@ Ensure that the Pixelcade Listener is running before launching Pegasus and note 
 
 After the first game launch, a configuration file called pixelcade-settings.ini will be created in c:\users\<your windows username>\pixelcade\pixelcade-settings.ini. You can change the settings as noted below to customize Pixelcade's behavior.
 
-You can further customize by modifying the source code of the scripts which are written in Auto Hot Key and then using the Pixelcade API http://pixelcade.org/api to add additional functionality
+You can further customize by modifying the source code of the scripts which are written in Auto Hot Key (Pegasus on Windows) and then using the Pixelcade API http://pixelcade.org/api to add additional functionality
 
 ; Pixelcade Config File
 
