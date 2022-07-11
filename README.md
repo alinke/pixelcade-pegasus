@@ -10,9 +10,11 @@ For Windows: copy the scripts to and note that you'll need to manually create th
 * C:\Users\[username]\AppData\Local\pegasus-frontend\scripts\game-start\pixelcade-pegasus-game-start.exe
 * C:\Users\[username]\AppData\Local\pegasus-frontend\scripts\quit\pixelcade-quit.exe
 
-Other Platforms (Pi, etc.): coming later
+Other Platforms (Pi, etc.): can add if demand
 
 Pixelcade will update when you launch a game.
+
+IMPORTANT: For this to work, you must have your roms organized in folders by platform name (ex. put all Atari 2600 roms in atari2600, all Nintendo Entertain System in nes, all arcade in mame, etc.). And be sure and match these platform / console names specifically https://github.com/alinke/pixelcade
 
 Ensure that the Pixelcade Listener is running before launching Pegasus and note that if the Pixelcade Listener is not running, EmulationStation will be slower as the Pixelcade Scripts will be making API calls to the Pixelcade Listener which will time out and slow down performance.
 
